@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>tutorial on Jared Drayton</title>
+    <link>https://jareddrayton.github.io/tags/tutorial/</link>
+    <description>Recent content in tutorial on Jared Drayton</description>
+    <image>
+      <title>Jared Drayton</title>
+      <url>https://jareddrayton.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://jareddrayton.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 09 Jun 2023 21:41:55 +0100</lastBuildDate><atom:link href="https://jareddrayton.github.io/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>https://jareddrayton.github.io/posts/new_post/</link>
+      <pubDate>Fri, 09 Jun 2023 21:41:55 +0100</pubDate>
+      
+      <guid>https://jareddrayton.github.io/posts/new_post/</guid>
+      <description>This is some content.</description>
+    </item>
+    
+  </channel>
+</rss>
